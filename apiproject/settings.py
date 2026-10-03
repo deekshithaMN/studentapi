@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-0wxtl$r1v_u^bqkmkajp&t%&p&ha)c#@prjs)((uu^-=^tmcpi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['studentapi-5q1w.onrender.com', '127.0.0.1', 'localhost']
-
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
